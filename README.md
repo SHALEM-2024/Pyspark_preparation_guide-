@@ -98,4 +98,12 @@ Here is how developers combine these three categories in real scripts:
 
 **Use Case:** Used to compare today's data with yesterday's data.
 
-then moves on to practical questions then deep dives into pyspark performance optimization (Data Layout Optimization) through partitionBy, Bucketing and Salting, Z-Ordering, then to building spark clusters.
+
+
+# `Practical Questions`: 
+
+these questions are directly taken from : 'https://github.com/mohankrishna02/interview-scenerios-spark-sql'
+
+
+
+then deep dives into pyspark performance optimization (Data Layout Optimization) through partitionBy, Bucketing and Salting, Z-Ordering, then to building spark clusters.
