@@ -19,6 +19,7 @@ how/when to use F.expr("inline(column_name)")
 how/when to use struct() to change the schema?
 how/when to use array() to change the schema?
 how/when to use coalace() in pyspark?
+how/when to use df.fillna() in pyspark? -> syntax -> "df.fillna(value=0, subset=["increaseSalary"]).display()"
 
 
 how/when to use Window.partitionBy()?  <-- *******
