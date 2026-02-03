@@ -18,6 +18,8 @@ how/when to use F.expr()
 how/when to use F.expr("inline(column_name)")
 how/when to use struct() to change the schema?
 how/when to use array() to change the schema?
+how/when to use coalace() in pyspark?
+
 
 how/when to use Window.partitionBy()?  <-- *******
 
