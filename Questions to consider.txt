@@ -8,7 +8,7 @@ how/when to use df.filter?
 how/when to use df.show?
 how/when to use df.display()?
 how/when to use df.withColumn?  -> always expects a single output column!!
-how/when to use df.groupBy()?
+how/when to use df.groupBy()? - > how many arguments it takes as input? ans: we can give any number of column names (name1, name2, name2) or (*columns) or ([name1, name2, name3]) 
 how/when to use df.orderBy()?
 how/when to use df.alias()?
 how/when to use df.join() and its arguments?
@@ -22,6 +22,9 @@ how/when to use coalace() in pyspark?
 how/when to use df.fillna() in pyspark? -> syntax -> "df.fillna(value=0, subset=["increaseSalary"]).display()"
 how/when to use F.split() in pyspark? -> split the sentence using spaces, or any custom character.
 how/when to use df.drop() in pyspark? 
+how/when to use agg(F.collect_list())? 
+
 how/when to use Window.partitionBy()?  <-- *******
+
 
 
